@@ -1,0 +1,7 @@
+.card-body{
+    color: aliceblue!important;
+}
+
+.bg-dark::placeholder{
+    color: aliceblue;
+}

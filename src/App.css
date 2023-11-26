@@ -1,0 +1,19 @@
+*{
+    background-color: rgba(var(--bs-dark-rgb));
+    color: aliceblue;
+    border:none;
+}
+
+button{
+    background-color: green!important;
+}
+
+.form-control{
+    margin : 4px;
+}
+
+.flex-container{
+    margin-top : 0px;
+    display : flex;
+    flex-direction: col;
+}
